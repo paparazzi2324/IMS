@@ -1,9 +1,16 @@
+"use client"
 // ./components/dashboard/DashboardBanner.jsx
 // @ts-nocheck
 // @ts-ignore
 // @jsxImportSource client
 
 import React, { useState } from 'react';
+export default function Card() {
+  const [state, setState] = useState("");
+
+  return <></>;
+}
+
 import { CreditCard, X } from 'lucide-react';
 
 export default function DashboardBanner() {
