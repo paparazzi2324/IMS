@@ -1,3 +1,8 @@
+// ./components/dashboard/DashboardBanner.jsx
+// @ts-nocheck
+// @ts-ignore
+// @jsxImportSource client
+
 import React, { useState } from 'react';
 import { CreditCard, X } from 'lucide-react';
 
