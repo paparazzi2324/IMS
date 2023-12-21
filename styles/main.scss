@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.header-bg{
+    background-image: url('https://res.cloudinary.com/djxc4eoas/image/upload/v1702937551/header-bg_atvjus.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
